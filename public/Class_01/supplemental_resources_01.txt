@@ -1,0 +1,8 @@
+Data Camp Modules
+Intro to Python
+https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
+Modules 1 and 2
+
+Intermediate Python
+https://app.datacamp.com/learn/courses/intermediate-python
+Modules 2 and 3

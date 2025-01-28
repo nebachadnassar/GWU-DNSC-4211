@@ -1,0 +1,8 @@
+Data Camp Modules
+Intermediate R
+https://app.datacamp.com/learn/courses/intermediate-r
+Modules 1,2 & 3
+
+Python Functions Tutorial
+https://www.datacamp.com/tutorial/functions-python-tutorial
+
