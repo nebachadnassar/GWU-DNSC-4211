@@ -1,3 +1,4 @@
+![img](https://www.pngkey.com/png/detail/199-1999678_gwu-seal-george-washington-university.png)
 # GWU Decision Sciences 4211 Curriculum
 ## Table of Contents
 ### Class01: Introduction to Base Python
